@@ -5,7 +5,7 @@ using UnityEngine;
 public class LevelSelect : MonoBehaviour
 {
     public GameObject Panel;
-    bool PanelActivo = true;
+    bool PanelActivo = false;
 
 
     public void PanelNiveles()

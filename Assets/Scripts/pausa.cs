@@ -5,7 +5,7 @@ using UnityEngine;
 public class pausa : MonoBehaviour
 {
     public GameObject Panel;
-    bool PanelActivo = true;
+    bool PanelActivo = false;
 
 
     public void PanelPausa()
